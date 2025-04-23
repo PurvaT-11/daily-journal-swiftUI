@@ -6,6 +6,13 @@ Overview
 
 This project allows users to maintain a digital daily journal. You can add, edit, and view journal entries, which include a title, text, date, and a rating system for each entry. The application is built using SwiftUI and SwiftData, ensuring smooth and modern UI/UX design. The journal entries are stored and easily accessible in the app, with a simple navigation system for easy user interaction.
 
+
+Demo
+----
+
+Here’s a [link to the demo video](https://drive.google.com/file/d/1_0vAE_cKxnoSoHY33XlT7-qqHbHxH0tw/view?usp=sharing) showcasing the functionality of the app.
+
+
 Features
 --------
 
@@ -21,17 +28,15 @@ Features
 How to Run
 ----------
 
-1.  bashCopygit clone https://github.com/username/daily-journal.gitcd daily-journal
+1.  https://github.com/PurvaT-11/daily-journal-swiftUI.git
+    cd daily-journal-swiftUI.git
     
-2.  Open the project in Xcode.
+3.  Open the project in Xcode.
     
-3.  Build and run the app on a simulator or a real device.
-    
+4.  Build and run the app on a simulator or a real device.
 
-Demo
-----
 
-Here’s a [link to the demo video](https://drive.google.com/file/d/1_0vAE_cKxnoSoHY33XlT7-qqHbHxH0tw/view?usp=sharing) showcasing the functionality of the app.
+    
 Detailed Review of Learnings
 ============================
 
