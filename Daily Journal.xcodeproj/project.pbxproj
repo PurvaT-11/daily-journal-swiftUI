@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A2B3FC092DB83F25001441C8 /* Journalentryrowview.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B3FC082DB83F25001441C8 /* Journalentryrowview.swift */; };
+		A2B3FC442DB881EC001441C8 /* EditJournalEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B3FC432DB881EC001441C8 /* EditJournalEntryView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A2B3FBC72DB7077D001441C8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +32,8 @@
 		A2B3FBB92DB7077C001441C8 /* Daily Journal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daily Journal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2B3FBC62DB7077D001441C8 /* Daily JournalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Daily JournalTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2B3FBD02DB7077D001441C8 /* Daily JournalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Daily JournalUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2B3FC082DB83F25001441C8 /* Journalentryrowview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Journalentryrowview.swift; sourceTree = "<group>"; };
+		A2B3FC432DB881EC001441C8 /* EditJournalEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditJournalEntryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +82,8 @@
 		A2B3FBB02DB7077C001441C8 = {
 			isa = PBXGroup;
 			children = (
+				A2B3FC432DB881EC001441C8 /* EditJournalEntryView.swift */,
+				A2B3FC082DB83F25001441C8 /* Journalentryrowview.swift */,
 				A2B3FBBB2DB7077C001441C8 /* Daily Journal */,
 				A2B3FBC92DB7077D001441C8 /* Daily JournalTests */,
 				A2B3FBD32DB7077D001441C8 /* Daily JournalUITests */,
@@ -236,6 +245,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2B3FC442DB881EC001441C8 /* EditJournalEntryView.swift in Sources */,
+				A2B3FC092DB83F25001441C8 /* Journalentryrowview.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
